@@ -1,0 +1,7 @@
+react and react-dom and react-native
+
+mobile apps - react and react native
+web - react and react dom
+
+npx - node package executer
+create-react-app - software/utility
